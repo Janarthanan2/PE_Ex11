@@ -27,5 +27,5 @@ Tag a friend who needs that electric boost! ⚡️⚡️
 
 
 
-# result:
+# Result:
 The promotional post was successfully generated with all required elements: a bold headline, fitting emojis, a clear product value message, and optimized hashtags.
